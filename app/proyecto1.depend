@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1686286321 source:c:\users\yei-1\dropbox\pc\desktop\college\semestre 3\ed\proyectos\project1\proyecto1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<cctype>
+	<windows.h>
+	<conio.h>
+	"ArrayList.h"
+	"Trie.h"
+	"MaxHeap.h"
+
+1685223951 c:\users\yei-1\dropbox\pc\desktop\college\semestre 3\ed\proyectos\project1\proyecto1\include\arraylist.h
+	<stdexcept>
+	<iostream>
+	"List.h"
+
+1685223951 c:\users\yei-1\dropbox\pc\desktop\college\semestre 3\ed\proyectos\project1\proyecto1\include\list.h
+
+1685651999 c:\users\yei-1\dropbox\pc\desktop\college\semestre 3\ed\proyectos\project1\proyecto1\include\trie.h
+	<string>
+	<iostream>
+	<stdexcept>
+	"TrieNode.h"
+	"MaxHeap.h"
+	"KVPair.h"
+
+1685574698 c:\users\yei-1\dropbox\pc\desktop\college\semestre 3\ed\proyectos\project1\proyecto1\include\trienode.h
+	"AVLDictionary.h"
+	"List.h"
+
+1685223951 c:\users\yei-1\dropbox\pc\desktop\college\semestre 3\ed\proyectos\project1\proyecto1\include\bstdictionary.h
+	<iostream>
+	<stdexcept>
+	"Dictionary.h"
+	"KVPair.h"
+	"DLinkedList.h"
+	"BSTree.h"
+
+1685223951 c:\users\yei-1\dropbox\pc\desktop\college\semestre 3\ed\proyectos\project1\proyecto1\include\dictionary.h
+	"List.h"
+
+1685223951 c:\users\yei-1\dropbox\pc\desktop\college\semestre 3\ed\proyectos\project1\proyecto1\include\kvpair.h
+	<iostream>
+
+1685223951 c:\users\yei-1\dropbox\pc\desktop\college\semestre 3\ed\proyectos\project1\proyecto1\include\dlinkedlist.h
+	<stdexcept>
+	<iostream>
+	"List.h"
+	"DNode.h"
+
+1685223951 c:\users\yei-1\dropbox\pc\desktop\college\semestre 3\ed\proyectos\project1\proyecto1\include\dnode.h
+
+1685223951 c:\users\yei-1\dropbox\pc\desktop\college\semestre 3\ed\proyectos\project1\proyecto1\include\bstree.h
+	<stdexcept>
+	<iostream>
+	"BSTNode.h"
+	"DLinkedList.h"
+
+1685223951 c:\users\yei-1\dropbox\pc\desktop\college\semestre 3\ed\proyectos\project1\proyecto1\include\bstnode.h
+
+1685574756 c:\users\yei-1\dropbox\pc\desktop\college\semestre 3\ed\proyectos\project1\proyecto1\include\avldictionary.h
+	<iostream>
+	<stdexcept>
+	"Dictionary.h"
+	"KVPair.h"
+	"DLinkedList.h"
+	"BSTree.h"
+	"AVLTree.h"
+
+1685574500 c:\users\yei-1\dropbox\pc\desktop\college\semestre 3\ed\proyectos\project1\proyecto1\include\avltree.h
+	<stdexcept>
+	<iostream>
+	"BSTNode.h"
+	"DLinkedList.h"
+
+1685586272 c:\users\yei-1\dropbox\pc\desktop\college\semestre 3\ed\proyectos\project1\proyecto1\include\maxheap.h
+	<stdexcept>
+	<iostream>
+
+1684019264 c:\users\yei-1\dropbox\pc\desktop\college\semestre 3\ed\proyectos\project1\proyecto1\include\minheap.h
+	<stdexcept>
+	<iostream>
+
